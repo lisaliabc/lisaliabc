@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
-
 I'm Lisa (she/her) - here you'll find my past work and projects. Say hi!
 
 ---
