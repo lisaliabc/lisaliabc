@@ -51,3 +51,9 @@ I'm Lisa (she/her) - here you'll find my past work and projects. Say hi!
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
 ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&labelColor=black&logo=notion&logoColor=white)
+
+### Marketing & Insights  
+![Google Ads Badge](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&labelColor=black&logo=googleads&logoColor=white)
+![Meta Ads Manager Badge](https://img.shields.io/badge/Meta%20Ads-4267B2?style=for-the-badge&labelColor=black&logo=facebook&logoColor=white) 
+![Klaviyo Badge](https://img.shields.io/badge/Klaviyo-4DAB4D?style=for-the-badge&labelColor=black&logo=klaviyo&logoColor=white) 
+![Mailchimp Badge](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&labelColor=black&logo=mailchimp&logoColor=black) 
