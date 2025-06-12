@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Lisa (she/her) - here you'll find my past work and projects. Currently open to new work, say hello~
 
-➡️ Click [here](https://github.com/lisaliabc/D2C-Ecommerce-Funnel-Analysis) to see how I uncovered and fixed the biggest leaks for a D2C conversion funnel to boost sales
+➡️ Click [here](https://github.com/lisaliabc/D2C-Ecommerce-Funnel-Analysis) to see how I uncovered and fixed the biggest leaks for a Direct-To-Consumer conversion funnel to boost sales
 
 
 ---
